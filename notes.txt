@@ -1,0 +1,13 @@
+Angular servers you don't need to inject but you can.
+
+Angular injects the word provider when you create provider type services.
+
+
+Angular services are called with the new operator
+
+$q is like jquery deferred;
+
+$resource service abstraction layer above $http
+
+works well with rest-ful services
+returns resources with commonly used server methods already implemented
